@@ -1,0 +1,3 @@
+git+https://git.dev.tencent.com/SunDoge/torchpie.git@v0.2
+pyFluidSynth
+pretty_midi
